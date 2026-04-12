@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ef8c21eaf4c6d05",
+  "active": "430425f69ad6c677",
   "lastOpenFiles": [
     "学习核心原则.md",
     "Python.md",
