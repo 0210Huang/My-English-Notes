@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8979901de628b532",
+        "id": "e9afdfb7d3f3a128",
         "type": "tabs",
         "children": [
           {
-            "id": "3e14b893333080f5",
+            "id": "f597b82b9f5d0691",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,12 +70,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a7ffacc8cc16dcc",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e14b893333080f5",
+  "active": "c9c0cfd6b0f34eeb",
   "lastOpenFiles": [
     "学习核心原则.md",
     "Python.md",
