@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9afdfb7d3f3a128",
+        "id": "70a3897b44ac91a3",
         "type": "tabs",
         "children": [
           {
-            "id": "f597b82b9f5d0691",
+            "id": "95e703d1e33634d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,24 +189,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9c0cfd6b0f34eeb",
+  "active": "0b6bc1adadf76320",
   "lastOpenFiles": [
-    "学习核心原则.md",
-    "Python.md",
-    "未命名.base",
-    "README.md",
-    "Markdown基本语法.md",
-    "C++.md",
-    "数据结构.md",
     "例题.md",
+    "README.md",
+    "Assets/未命名.base",
+    "汇编代码.md",
+    "数据结构.md",
+    "Python.md",
+    "C++.md",
+    "Assets",
+    "Markdown基本语法.md",
+    "未命名.canvas",
+    "conflict-files-obsidian-git.md",
+    "计组经典例题.md",
+    "Lab 2经典例题（计组22-23）.md",
+    "未命名/未命名.md",
+    "Assets/数据结构.assets/file-20260414162848352.png",
     "CS-learning-path",
-    "数据结构.assets/file-20260409190345476.png",
-    "数据结构.assets/file-20260409190300699.png",
-    "Python.assets",
-    "C++.assets",
+    "Assets/数据结构.assets/file-20260409190345476.png",
+    "Assets/数据结构.assets/file-20260409190300699.png",
+    "Assets/Python.assets",
+    "Assets/C++.assets",
     "Markdown基础格式.md",
     "数据结构.assets/file-20260409181806903.png",
-    "数据结构.assets",
+    "Assets/数据结构.assets",
     "assets/Markdown基础格式/file-20260409175628858.png",
     "assets/Markdown基础格式",
     "assets",

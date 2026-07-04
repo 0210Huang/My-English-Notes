@@ -1,8 +1,14 @@
 {
-  "cssTheme": "Cupertino",
-  "translucency": true,
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": false
 }
